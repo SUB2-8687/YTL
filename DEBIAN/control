@@ -1,0 +1,7 @@
+Package: com.dvntm.ytlite
+Name: YTLite
+Version: 5.2.1
+Architecture: iphoneos-arm64
+Maintainer: YTLite
+Depends: mobilesubstrate | substitute | ellekit
+Description: YTLite
