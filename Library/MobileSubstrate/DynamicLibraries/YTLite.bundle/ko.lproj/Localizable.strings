@@ -197,8 +197,8 @@
 "PlayerNoReportDesc" = "플레이어 하단의 \"신고\" 버튼을 제거합니다.";
 "PlayerNoHype" = "\"Hype\" 버튼 제거";
 "PlayerNoHypeDesc" = "플레이어 하단의 \"Hype\" 버튼을 제거합니다.";
-"PlayerNoStopAds" = "\"광고 사용 중지\" 버튼 제거";
-"PlayerNoStopAdsDesc" = "플레이어 하단의 \"광고 사용 중지\" 버튼을 제거합니다.";
+"PlayerNoStopAds" = "\"이 광고 그만보기\" 버튼 제거";
+"PlayerNoStopAdsDesc" = "플레이어 하단의 \"이 광고 그만보기\" 버튼을 제거합니다.";
 
 "ProgressBarStyle" = "진행 바 스타일";
 "SolidColor" = "단색";
@@ -341,7 +341,7 @@
 "HideShortsAudioButton" = "오디오 버튼 숨기기";
 "HideShortsAudioButtonDesc" = "액션 바에서 오디오 버튼을 제거합니다.";
 "HideShortsSuggestion" = "추천 버튼 숨기기";
-"HideShortsSuggestionDesc" = "재생목록에 저장,  Super Thanks 등 추천 버튼을 제거합니다.";
+"HideShortsSuggestionDesc" = "재생목록에 저장, Super Thanks 등 추천 버튼을 제거합니다.";
 "HideShortsSubscribe" = "구독 버튼 숨기기";
 "HideShortsSubscribeDesc" = "사용자 이름 옆의 구독 버튼을 제거합니다.";
 "HideShortsUsername" = "채널명 숨기기";
@@ -375,7 +375,7 @@
 "FEnotifications_inbox" = "알림";
 
 "TranslucentBar" = "반투명 탭 바";
-"RemoveLabels" = "탭 레이블 제거";
+"RemoveLabels" = "탭 라벨 제거";
 "RemoveIndicators" = "탭 표시기 제거";
 
 "ActiveTabs" = "활성 탭";
