@@ -286,7 +286,7 @@
 "Stop" = "정지";
 "AutoSkipShorts" = "Shorts 자동 건너뛰기";
 "ForceBestQuality" = "화질 고정";
-"ForceBestQualityDesc" = "Shorts 화질 선택을 비활성화하고 플레이어가 자동으로 최적 화질을 선택하도록 합니다.";
+"ForceBestQualityDesc" = "Shorts 화질 선택을 비활성화하고 플레이어가 자동으로 최적의 화질을 선택하도록 합니다.";
 "ShortsOnlyMode" = "Shorts 전용 모드";
 "ShortsOnlyModeDesc" = "YouTube 기능을 Shorts 시청으로만 제한합니다.";
 "RestrictShorts" = "Shorts 제한";
