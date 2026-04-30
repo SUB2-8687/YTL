@@ -83,7 +83,7 @@
 "RemoveAds" = "광고 제거";
 "RemoveAdsDesc" = "앱 내 광고를 제거합니다.";
 "HideShorts" = "Shorts 동영상 숨기기";
-"HideShortsDesc" = "홈페이지, 추천 동영상 등에서 Shorts 동영상을 숨깁니다.";
+"HideShortsDesc" = "홈, 추천 동영상 등에서 Shorts 동영상을 숨깁니다.";
 "KeepSubsShorts" = "구독 탭에서 Shorts 유지";
 "KeepSubsShortsDesc" = "구독 탭에서 Shorts를 제거하지 않습니다.";
 "RemoveCommunityPosts" = "커뮤니티 게시물 제거";
@@ -446,8 +446,8 @@
 "RemoveNotInterestedMenuDesc" = "메뉴에서 \"관심 없음\" 옵션을 제거합니다.";
 "RemoveDontRecommendMenu" = "\"채널 추천 안함\" 제거";
 "RemoveDontRecommendMenuDesc" = "메뉴에서 \"채널 추천 안함\" 옵션을 제거합니다.";
-"RemoveFeedbackMenu" = "\"피드백\" 제거";
-"RemoveFeedbackMenuDesc" = "메뉴에서 \"피드백\" 옵션을 제거합니다.";
+"RemoveFeedbackMenu" = "\"의견\" 제거";
+"RemoveFeedbackMenuDesc" = "메뉴에서 \"의견\" 옵션을 제거합니다.";
 "RemoveReportMenu" = "\"신고\" 제거";
 "RemoveReportMenuDesc" = "메뉴에서 \"신고\" 옵션을 제거합니다.";
 "RemoveRemixMenu" = "\"리믹스\" 제거";
