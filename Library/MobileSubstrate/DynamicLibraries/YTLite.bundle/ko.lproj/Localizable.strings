@@ -584,7 +584,7 @@
 "SpecialThanks" = "특별 감사";
 "SpecialThanks.Test" = "트윅 테스트에 귀중한 기여를 해주신 분";
 
-"Localizations" = "현지화 작성자";
+"Localization" = "현지화 작성자";
 "ChineseSimplified" = "중국어(간체) 현지화";
 "ChineseTraditional" = "중국어(번체) 현지화";
 "French" = "프랑스어 현지화";
