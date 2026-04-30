@@ -13,9 +13,9 @@
 "Search" = "검색";
 
 /* Downloading options */
-"Downloading" = "다운로드 중";
+"Downloading" = "다운로드";
 "DownloadManager" = "다운로드 관리자";
-"DownloadManagerDesc" = "플레이어 하단의 '오프라인 저장' 버튼을 다운로드 관리자로 대체합니다. 동영상, 오디오, 썸네일 이미지 다운로드 및 동영상 정보 복사가 가능합니다.";
+"DownloadManagerDesc" = "플레이어 하단의 \"오프라인 저장\" 버튼을 다운로드 관리자로 대체합니다. 동영상, 오디오, 썸네일 이미지 다운로드 및 동영상 정보 복사가 가능합니다.";
 "PostManager" = "게시물 정보 저장";
 "PostManagerDesc" = "길게 탭하여 게시물 텍스트를 복사하거나 이미지로 저장할 수 있습니다.";
 "SaveProfilePhoto" = "프로필 사진 저장";
@@ -72,8 +72,8 @@
 "StickyNavbarDesc" = "아래로 스크롤할 때 탐색 바가 항상 표시되도록 고정합니다.";
 "NoSubbar" = "서브 바 숨기기";
 "NoSubbarDesc" = "탐색 바 아래의 서브 바(전체, 새로운 맞춤 동영상, 라이브 등)를 숨깁니다.";
-"NoMoreVideosButton" = "동영상 더보기 버튼 숨기기";
-"NoMoreVideosButtonDesc" = "전체화면 모드에서 동영상 더보기 버튼을 숨깁니다.";
+"NoMoreVideosButton" = "\"동영상 더보기\" 버튼 숨기기";
+"NoMoreVideosButtonDesc" = "전체화면 모드에서 \"동영상 더보기\" 버튼을 숨깁니다.";
 "LogoImage" = "로고 이미지";
 "LogoImageDesc" = "탐색 바의 YouTube 로고를 선택한 이미지로 교체합니다.";
 "NoLogo" = "로고 제거";
