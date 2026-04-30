@@ -166,7 +166,7 @@
 "NoRelatedVids" = "오버레이 관련 동영상 숨기기";
 "NoRelatedVidsDesc" = "위로 스와이프하면 표시되는 오버레이의 관련 동영상을 제거합니다.";
 "NoPromotionCards" = "유료 프로모션 카드 숨기기";
-"NoPromotionCardsDesc" = "유료 프로모션이 포함된 동영상의 '유료 광고 포함' 카드를 숨깁니다.";
+"NoPromotionCardsDesc" = "유료 프로모션이 포함된 동영상의 \"유료 광고 포함\" 카드를 숨깁니다.";
 "NoWatermarks" = "워터마크 숨기기";
 "NoWatermarksDesc" = "플레이어에서 채널 워터마크를 숨깁니다.";
 "DisableAmbientMode" = "앰비언트 모드 비활성화";
