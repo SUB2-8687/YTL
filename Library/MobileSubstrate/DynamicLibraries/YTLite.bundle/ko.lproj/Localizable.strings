@@ -72,6 +72,8 @@
 "StickyNavbarDesc" = "아래로 스크롤할 때 탐색 바가 항상 표시되도록 고정합니다.";
 "NoSubbar" = "서브 바 숨기기";
 "NoSubbarDesc" = "탐색 바 아래의 서브 바(전체, 새로운 맞춤 동영상, 라이브 등)를 숨깁니다.";
+"NoMoreVideosButton" = "동영상 더보기 버튼 숨기기";
+"NoMoreVideosButtonDesc" = "전체화면 모드에서 동영상 더보기 버튼을 숨깁니다.";
 "LogoImage" = "로고 이미지";
 "LogoImageDesc" = "탐색 바의 YouTube 로고를 선택한 이미지로 교체합니다.";
 "NoLogo" = "로고 제거";
@@ -165,8 +167,6 @@
 "NoRelatedVidsDesc" = "위로 스와이프하면 표시되는 오버레이의 관련 동영상을 제거합니다.";
 "NoPromotionCards" = "유료 프로모션 카드 숨기기";
 "NoPromotionCardsDesc" = "유료 프로모션이 포함된 동영상의 '유료 광고 포함' 카드를 숨깁니다.";
-"NoMoreVideosButton" = "동영상 더보기 버튼 숨기기";
-"NoMoreVideosButtonDsec" = "오버레이에서 동영상 더보기 버튼을 숨깁니다.";
 "NoWatermarks" = "워터마크 숨기기";
 "NoWatermarksDesc" = "플레이어에서 채널 워터마크를 숨깁니다.";
 "DisableAmbientMode" = "앰비언트 모드 비활성화";
