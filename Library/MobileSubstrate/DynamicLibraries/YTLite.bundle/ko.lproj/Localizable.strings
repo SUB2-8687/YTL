@@ -152,7 +152,7 @@
 "NoEndScreenCards" = "엔드카드 카드 숨기기";
 "NoEndScreenCardsDesc" = "동영상 끝부분의 마지막 화면(썸네일)을 숨깁니다.";
 "NoAutonavEndScreenCards" = "자동재생 종료 화면 숨기기";
-"NoAutonavEndScreenCardsDesc" = "재생 종료 후 다음에 볼 수 있는 동영상을 보여주는 화면을 숨깁니다. 이 옵션을 비활성화하면 자동재생도 꺼집니다.";
+"NoAutonavEndScreenCardsDesc" = "재생 종료 후 다음에 볼 수 있는 동영상을 보여주는 화면을 숨깁니다. 이 옵션을 활성화하면 자동재생도 꺼집니다.";
 "NoFullscreenActions" = "전체화면 액션 비활성화";
 "NoFullscreenActionsDesc" = "전체화면 모드에서 액션 패널을 비활성화합니다.";
 "NoHudMsgs" = "스낵 바 비활성화";
@@ -349,7 +349,7 @@
 "HideShortsDescription" = "설명 숨기기";
 "HideShortsDescriptionDesc" = "Shorts 설명을 제거합니다.";
 "HideShortsSource" = "원본 링크 버튼 숨기기";
-"HideShortsSourceDesc" = "원본 동영상 또는 다른 Short 동영상으로 이동하는 버튼을 제거합니다.";
+"HideShortsSourceDesc" = "원본 동영상 또는 다른 Shorts 동영상으로 이동하는 버튼을 제거합니다.";
 "HideShortsAudio" = "오디오 표시 숨기기";
 "HideShortsAudioDesc" = "Shorts에 사용된 오디오를 나타내는 표시를 제거합니다.";
 "HideShortsCommentBar" = "댓글 바 숨기기";
