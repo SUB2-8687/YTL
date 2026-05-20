@@ -3,5 +3,5 @@ Name: YTLite
 Version: 5.2.1
 Architecture: iphoneos-arm64
 Maintainer: YTLite
-Depends: mobilesubstrate | substitute | ellekit
+Depends: mobilesubstrate | substitute | ellekit, com.ps.YouTubeHeader, preferenceloader
 Description: YTLite
