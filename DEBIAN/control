@@ -1,6 +1,6 @@
 Package: com.dvntm.ytlite
 Name: YTLite
-Version: 5.2.1
+Version: 5.2.2
 Architecture: iphoneos-arm64
 Maintainer: YTLite
 Depends: mobilesubstrate | substitute | ellekit, com.ps.YouTubeHeader, preferenceloader
