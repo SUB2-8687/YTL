@@ -154,8 +154,8 @@
 "NoAutonavEndScreenCardsDesc" = "재생 종료 후 다음에 볼 수 있는 동영상을 보여주는 화면을 숨깁니다. 이 옵션을 활성화하면 자동재생도 꺼집니다.";
 "NoFullscreenActions" = "전체화면 액션 비활성화";
 "NoFullscreenActionsDesc" = "전체화면 모드에서 액션 패널을 비활성화합니다.";
-"NoMoreVideosButton" = "\"동영상 더보기\" 버튼 숨기기";
-"NoMoreVideosButtonDesc" = "전체화면 모드에서 \"동영상 더보기\" 버튼을 숨깁니다.";
+"NoMoreVideosButton" = "동영상 더보기 버튼 숨기기";
+"NoMoreVideosButtonDesc" = "전체화면 모드에서 동영상 더보기 버튼을 숨깁니다.";
 "NoHudMsgs" = "스낵 바 비활성화";
 "NoHudMsgsDesc" = "YouTube의 화면 HUD 메시지 표시를 차단합니다.";
 "PersistentProgressBar" = "항상 진행 바 표시";
@@ -616,7 +616,7 @@
 "NoDonationReminder" = "후원 알림 비활성화";
 "NoDonationReminderDesc" = "가끔 표시되는 후원 알림을 끕니다.";
 
-"ShortsOnlyWarning" = "이 모드를 활성화하시겠습니까?\n\n이 모드에서는 Shorts 동영상만 시청할 수 있으며 다른 기능을 사용할 수 없습니다.\n\n(팁: Shorts 화면을 두 손가락으로 길게 누르면  Shorts 전용 모드를 해제할 수 있습니다.)";
+"ShortsOnlyWarning" = "이 모드를 활성화하시겠습니까?\n\n이 모드에서는 Shorts 동영상만 시청할 수 있으며 다른 기능을 사용할 수 없습니다.\n\n(팁: Shorts 화면을 두 손가락으로 길게 누르면 Shorts 전용 모드를 해제할 수 있습니다.)";
 "ShortsModeTurnedOff" = "Shorts 전용 모드가 해제되었습니다.";
 
 "AddLibraryTab" = "\"내 페이지\" 탭 복원";
@@ -683,7 +683,7 @@
 "Error" = "오류";
 "Error.Clipboard" = "오류. 자세한 정보는 클립보드를 확인하세요.";
 "Error.PathIssue" = "오류. 최종 경로 생성 중 문제가 발생했습니다. 미디어 제목에 문제가 있나요?";
-"Error.TryLater" = "미디어가 라이브 중이거나  Google 서버에서 처리 중입니다.\n\n나중에 다시 시도해 주세요.";
+"Error.TryLater" = "미디어가 라이브 중이거나 Google 서버에서 처리 중입니다.\n\n나중에 다시 시도해 주세요.";
 "Error.NoSpace" = "기기 저장 공간이 부족합니다.\n\n최소 %@의 추가 여유 공간이 필요합니다. 현재 여유 공간: %@";
 "Error.Multidownloading" = "동시 다운로드는 아직 지원되지 않습니다.";
 "Error.FailedToImport" = "환경설정을 가져오지 못했습니다.";
