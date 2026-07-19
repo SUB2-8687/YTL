@@ -1,12 +1,13 @@
-/* Patreon section */
+/* Tweak account section */
+"Account" = "계정";
 "SkipLogInAlert" = "로그인 알림 숨기기";
-"Log-inViaPatreon" = "Patreon으로 로그인";
+"LogIn" = "로그인";
 "ManageAccount" = "계정 관리";
 "AccessDenied" = "접근 거부됨";
 "LogOut" = "로그아웃";
 "LogOutTitle" = "로그아웃";
 "LogOutMessage" = "계속하시겠습니까?";
-"FeaturesNotActivated" = "로그인되어 있지 않습니다. YouTube Plus 기능을 이용하려면 활성화된 Patreon 구독 계정으로 로그인하세요.";
+"FeaturesNotActivated" = "로그인되어 있지 않습니다. YouTube Plus 기능을 이용하려면 활성화된 구독 계정으로 로그인하세요.";
 
 /* Main section */
 "Main" = "메인";
@@ -153,6 +154,8 @@
 "NoAutonavEndScreenCardsDesc" = "재생 종료 후 다음에 볼 수 있는 동영상을 보여주는 화면을 숨깁니다. 이 옵션을 활성화하면 자동재생도 꺼집니다.";
 "NoFullscreenActions" = "전체화면 액션 비활성화";
 "NoFullscreenActionsDesc" = "전체화면 모드에서 액션 패널을 비활성화합니다.";
+"NoMoreVideosButton" = "\"동영상 더보기\" 버튼 숨기기";
+"NoMoreVideosButtonDesc" = "전체화면 모드에서 \"동영상 더보기\" 버튼을 숨깁니다.";
 "NoHudMsgs" = "스낵 바 비활성화";
 "NoHudMsgsDesc" = "YouTube의 화면 HUD 메시지 표시를 차단합니다.";
 "PersistentProgressBar" = "항상 진행 바 표시";
@@ -275,10 +278,6 @@
 "NoFreeZoomDesc" = "새로운 자유 확대 제스처를 비활성화합니다.";
 "NoDoubleTap2Seek" = "두 번 탭 탐색 비활성화";
 "NoDoubleTap2SeekDesc" = "두 번 탭으로 탐색하는 제스처를 비활성화합니다.";
-
-/* Player Other options */
-"NoMoreVideosButton" = "\"동영상 더보기\" 버튼 숨기기";
-"NoMoreVideosButtonDesc" = "전체화면 모드에서 \"동영상 더보기\" 버튼을 숨깁니다.";
 
 /* Shorts options */
 "Shorts" = "Shorts";
