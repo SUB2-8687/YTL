@@ -1,1 +1,1 @@
-6.0b2 Cracked by [@itzzace](https://github.com/itzzace)
+6.0 Cracked by [@Spy_0G](https://t.me/Spy_0G)
